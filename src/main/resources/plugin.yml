@@ -1,0 +1,4 @@
+name: BuildJadge
+version: '${project.version}'
+main: jp.buildjadge.buildjadge.BuildJadge
+api-version: '1.16'
